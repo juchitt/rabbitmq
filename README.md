@@ -31,7 +31,7 @@ rabbitmq 모니터링하기 위한 management plugin을 허용후 재시작 한�
  rabbitmq-service.bat start
 ```
 
-재시작후 Link: http://localhost:15672 로 접속후 
+재시작후 http://localhost:15672 로 접속후 
 
 ![rabbitmq-login](image/rabbitmq_login.png)<br>
 
