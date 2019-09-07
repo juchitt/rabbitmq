@@ -13,7 +13,7 @@
 
     <groupId>com.practice.rabbitmq</groupId>
     <artifactId>rabbitmq-practice</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
 
 
     <properties>
